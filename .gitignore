@@ -1,0 +1,7 @@
+.idea
+.env
+golang-web
+node_modules
+tmp/*.log
+tmp/main
+dist
